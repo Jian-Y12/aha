@@ -1,4 +1,4 @@
-# Aha Toolbox（啊哈的工具箱）
+# Aha Toolbox
 
 **An offline-first Android toolbox for students** — timetable OCR, homework & grade tracking,
 flashcards, notes, an encrypted photo vault, and one-tap JSON backup.
