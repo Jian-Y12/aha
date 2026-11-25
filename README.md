@@ -4,7 +4,7 @@
 flashcards, notes, an encrypted photo vault, and one-tap JSON backup.
 All data stays on your device: no account, no cloud, no analytics.
 
-> 学生党的一站式本地小工具箱：课表 OCR、作业、成绩、笔记、加密相册、备份。
+
 
 ## Features
 
